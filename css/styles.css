@@ -9,10 +9,11 @@ h1 {
 }
 
 .header {
-  border: 3px solid #000000;
+  border: 5px outset rgb(178, 127, 60);
   border-radius: 5px;
   width: 80%;
   margin: auto;
+  background-color: rgb(178, 127, 60);
 }
 
 a {
@@ -36,8 +37,3 @@ a:hover {
   text-align: center;
 }
 
-ul {
-  list-style: none;
-  display: inline-block;
-  text-align: left;
-}
